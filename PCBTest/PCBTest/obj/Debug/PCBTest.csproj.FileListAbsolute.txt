@@ -1,0 +1,8 @@
+E:\CHTSoft\desktop project\线路板测试（明信项目）\PCBTest\PCBTest\bin\Debug\PCBTest.exe.config
+E:\CHTSoft\desktop project\线路板测试（明信项目）\PCBTest\PCBTest\bin\Debug\PCBTest.exe
+E:\CHTSoft\desktop project\线路板测试（明信项目）\PCBTest\PCBTest\bin\Debug\PCBTest.pdb
+E:\CHTSoft\desktop project\线路板测试（明信项目）\PCBTest\PCBTest\obj\Debug\PCBTest.csprojResolveAssemblyReference.cache
+E:\CHTSoft\desktop project\线路板测试（明信项目）\PCBTest\PCBTest\obj\Debug\PCBTest.Properties.Resources.resources
+E:\CHTSoft\desktop project\线路板测试（明信项目）\PCBTest\PCBTest\obj\Debug\PCBTest.csproj.GenerateResource.Cache
+E:\CHTSoft\desktop project\线路板测试（明信项目）\PCBTest\PCBTest\obj\Debug\PCBTest.exe
+E:\CHTSoft\desktop project\线路板测试（明信项目）\PCBTest\PCBTest\obj\Debug\PCBTest.pdb
