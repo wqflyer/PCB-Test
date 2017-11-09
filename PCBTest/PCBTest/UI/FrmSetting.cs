@@ -5,14 +5,13 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PCBTest
+namespace PCBTest.UI
 {
-    public partial class FrmMain : Form
+    public partial class FrmSetting : Form
     {
-        public FrmMain()
+        public FrmSetting()
         {
             InitializeComponent();
         }

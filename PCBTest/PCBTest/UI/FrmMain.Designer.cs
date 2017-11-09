@@ -1,4 +1,4 @@
-﻿namespace PCBTest
+﻿namespace PCBTest.UI
 {
     partial class FrmMain
     {

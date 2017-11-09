@@ -47,11 +47,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FrmMain.cs">
+    <Compile Include="ConfigVal.cs" />
+    <Compile Include="UI\FrmMain.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmMain.Designer.cs">
+    <Compile Include="UI\FrmMain.Designer.cs">
       <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FrmSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FrmSetting.Designer.cs">
+      <DependentUpon>FrmSetting.cs</DependentUpon>
     </Compile>
     <Compile Include="ImportData\FourWireInfo.cs" />
     <Compile Include="ImportData\PointInfo.cs" />
